@@ -7,3 +7,4 @@ with supplier as (
     {% endif %}
 
 select * from supplier
+
